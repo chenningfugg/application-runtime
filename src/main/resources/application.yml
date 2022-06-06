@@ -1,9 +1,3 @@
 micronaut:
   application:
-    name: demo
-  router:
-    versioning:
-      header:
-        enabled: true
-        names:
-
+    name: demohttps://github.com/chenningfugg/mn-application-runtime/blob/master/src/main/resources/application.yml
